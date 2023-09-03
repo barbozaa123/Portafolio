@@ -1,0 +1,23 @@
+.scale-transform:hover {
+  transform: scale(1.1);
+}
+
+.scale-transform2:hover {
+  transform: scale(1.2);
+}
+
+.proyect1-div:hover .proyect1-txt {
+  color: #D4D5FC;
+}
+
+.proyect2-div:hover .proyect2-txt {
+  color: #D4D5FC;
+}
+
+.proyect3-div:hover .proyect3-txt {
+  color: #D4D5FC;
+}
+.proyect4-div:hover .proyect4-txt {
+  color: #D4D5FC;
+}
+
